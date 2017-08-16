@@ -1,0 +1,3 @@
+Down load entire image data:
+
+https://github.com/personableduck/GolfSwing/tree/master/golfimage
